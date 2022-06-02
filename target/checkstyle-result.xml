@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.1.1">
+<file name="C:\Project\idea\Mentoring\calculateFx\src\main\java\tav\exemple\controllers\MatrixController.java">
+</file>
+<file name="C:\Project\idea\Mentoring\calculateFx\src\main\java\tav\exemple\MainApp.java">
+<error line="35" severity="warning" message="Uncommented main method found." source="com.puppycrawl.tools.checkstyle.checks.UncommentedMainCheck"/>
+</file>
+<file name="C:\Project\idea\Mentoring\calculateFx\src\main\java\tav\exemple\models\MatrixModel.java">
+</file>
+<file name="C:\Project\idea\Mentoring\calculateFx\src\main\java\tav\exemple\views\MatrixView.java">
+<error line="143" column="5" severity="warning" message="Executable statement count is 60 (max allowed is 40)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ExecutableStatementCountCheck"/>
+<error line="153" column="36" severity="warning" message="The String &quot;-fx-alignment: CENTER;&quot; appears 9 times in the file." source="com.puppycrawl.tools.checkstyle.checks.coding.MultipleStringLiteralsCheck"/>
+<error line="258" column="35" severity="error" message="Expected @throws tag for &apos;IOException&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="C:\Project\idea\Mentoring\calculateFx\src\main\java\tav\exemple\controllers\MatrixController.java">
+</file>
+<file name="C:\Project\idea\Mentoring\calculateFx\src\main\java\tav\exemple\MainApp.java">
+</file>
+<file name="C:\Project\idea\Mentoring\calculateFx\src\main\java\tav\exemple\models\MatrixModel.java">
+</file>
+<file name="C:\Project\idea\Mentoring\calculateFx\src\main\java\tav\exemple\views\MatrixView.java">
+</file>
+</checkstyle>
